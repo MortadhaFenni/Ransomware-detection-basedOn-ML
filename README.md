@@ -12,9 +12,9 @@ Keywords: cybersecurity, ransomware detection, machine learning.
 * Cuckoo sandbox
 * Pyhton
 * Packages python
-** Numpy
-** Pandas
-** Scikit-learn
+  * Numpy
+  * Pandas
+  * Scikit-learn
 
 ## Support
 
